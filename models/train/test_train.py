@@ -24,3 +24,6 @@ print(Train.get_by_id(1))
 # # Delete train
 # Train.delete(train_id)
 # print("Deleted train.")
+
+
+##python3 -m train_reservation_be.models.train.test_train
